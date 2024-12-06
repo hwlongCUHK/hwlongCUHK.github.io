@@ -10,4 +10,4 @@ paperurl: 'http://hwlongCUHK.github.io/files/bigD.pdf'
 citation: 'Long, Hou-Wan, Xiongfei Zhao, and Yain-Whar Si. "Dynamic Mining Interval to Improve Blockchain Throughput." In 2023 IEEE International Conference on Big Data (BigData), pp. 46-55. IEEE, 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces an innovative Dynamic Mining Mechanism (DMI) combined with Dynamic Transaction Storage (DTS) to optimize blockchain efficiency and throughput. Focusing on the variable transaction fee model, we address the challenges posed by deviant mining strategies such as Undercutting Attacks and Selfish Mining. By integrating DMI, we dynamically regulate mining intervals based on block size variations, enhancing transaction processing capacity and reducing computational resource waste.
