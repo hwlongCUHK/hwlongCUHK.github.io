@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Risk Management Science, The Chinese University of Hong Kong, 2024
+* B.Sc. in Risk Management Science, The Chinese University of Hong Kong, 2026 (expected)
 
 Research experience
 ======
