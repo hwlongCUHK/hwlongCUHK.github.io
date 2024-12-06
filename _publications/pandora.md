@@ -6,7 +6,7 @@ permalink: /publication/pandora
 excerpt: 'This paper is about padora.'
 date: 2024-08-19
 venue: '2024 IEEE International Conference on Blockchain (Blockchain)'
-paperurl: 'http://academicpages.github.io/files/pandora.pdf'
+paperurl: 'http://hwlongCUHK.github.io/files/pandora.pdf'
 citation: 'Long, Hou-Wan, and Yain-Whar Si. "Token Fungibility Duality: Technical and Graphical Analysis on 404 Standards." In 2024 IEEE International Conference on Blockchain (Blockchain), pp. 252-259. IEEE, 2024.'
 ---
 
