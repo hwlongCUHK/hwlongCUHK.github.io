@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Minimizing block incentive volatility through Verkle tree-based dynamic transaction storage
 excerpt: 'This paper is about DTS.'
 date: 2024-01-05
-venue: 'Journal 1'
+venue: 'Decision Support Systems'
 paperurl: 'http://hwlongCUHK.github.io/files/dss.pdf'
 citation: 'Zhao, Xiongfei, Gerui Zhang, Hou-Wan Long, and Yain-Whar Si. "Minimizing block incentive volatility through Verkle tree-based dynamic transaction storage." Decision Support Systems 180 (2024): 114180.'
 ---
