@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, thanks for stopping by my page. I am from Macau and my name is Hou-Wan Long (龍浩雲). I am currently a third year student at The Chinese University of Hong Kong (CUHK), majoring in Risk Management Science (STAT+CS+FIN, has nothing to do with Management!!). My research interests include Computational Social Science, AI for Finance and Decentralized Mechanism. I am looking for PhD position for fall, 2026.
+Hi, thanks for stopping by my page. I am from Macau and my name is Hou-Wan Long (龍浩雲). I am currently a third year student at The Chinese University of Hong Kong (CUHK), majoring in Risk Management Science (STAT+CS+FIN, has little thing to do with Management!!). My research interests include Computational Social Science, AI for Finance and Decentralized Mechanism. I am looking for PhD position for fall, 2026.
 
 # 📖 Educations
 - *2022.09 - 2026.05 (expected)*, B.Sc. in Risk Management Science, The Chinese University of Hong Kong, Hong Kong. 
@@ -26,8 +26,12 @@ Hi, thanks for stopping by my page. I am from Macau and my name is Hou-Wan Long 
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 My paper "Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem" is accepted by ACM Internation World Wide Web Conference 2025 (WWW'25) short paper track. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.12*: &nbsp;🎉🎉 My work with [Decentralized Computing Lab, University of Washington, Tacoma](https://sites.uw.edu/weicaics/) "A Multidimensional Contract Design for Smart Contract-as-a-Service" is accepted by IEEE Transaction on Computational Social Systems.
+- *2024.11*: &nbsp;🎉🎉 I receive the "Students are future" Scholarship by Kyoto University and present my research poster "Transfer Learning in Financial Time Series with Gramian Angular Field" at The Pacific Rim International Conference on Artificial Intelligence 2024 (PRICAI).
+- *2024.07*: &nbsp;🎉🎉 My paper "Token Fungibility Duality: Technical and Graphical Analysis on 404 Standards" is accepted by IEEE International Conference on Blockchain 2024 (acceptance rate=18.9%).
+- *2024.01*: &nbsp;🎉🎉 My work with [Faculty of Science and Technology, University of Macau](https://www.fst.um.edu.mo/) "Minimizing block incentive volatility through Verkle tree-based dynamic transaction storage" is accepted by Decision Support System.
+- *2023.10*: &nbsp;🎉🎉 My paper "Dynamic Mining Interval to Improve Blockchain Throughput" is accepted by IEEE International Conference on Big Data 2023 (acceptance rate=17.4%).
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Internation World Wide Web Conference 2025</div><img src='images/coin_meme.png' alt="sym" width="100%"></div></div>
