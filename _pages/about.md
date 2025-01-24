@@ -51,7 +51,7 @@ Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE International Conference on Blockchain</div><img src='images/404.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE International Conference on Blockchain 2024</div><img src='images/404.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Token Fungibility Duality: Technical and Graphical Analysis on 404 Standards](https://ieeexplore.ieee.org/abstract/document/10664313)
@@ -60,6 +60,30 @@ Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, 
 
 **Project**
 - This paper analyzes the ERC-404 and DN-404 blockchain standards, which combine fungible and non-fungible token features, highlighting ERC-404's challenges like high costs and congestion, DN-404's improvements in efficiency, and revealing power-law distributions in token activities.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Decision Support Systems</div><img src='images/verkle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Minimizing block incentive volatility through Verkle tree-based dynamic transaction storage](https://www.sciencedirect.com/science/article/pii/S0167923624000137)
+
+Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
+
+**Project**
+- The abstract introduces a Dynamic Transaction Storage (DTS) strategy using Verkle trees and optimization algorithms to stabilize block incentives in consortium blockchains, reducing volatility and improving security by prioritizing time-based transaction incorporation and minimizing bandwidth consumption.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internation Conference on Big Data 2023</div><img src='images/bigdata.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic Mining Interval to Improve Blockchain Throughput](https://ieeexplore.ieee.org/abstract/document/10386281)
+
+**Hou-Wan Long**, Xiongfei Zhao, Yain-Whar Si
+
+**Project**
+- This paper proposes a Dynamic Mining Interval (DMI) mechanism combined with Dynamic Transaction Storage (DTS) to enhance Blockchain transaction throughput and address challenges like fluctuating transaction activities, deviant mining threats, and reduced system efficiency caused by Merkle tree leaf node utilization in DTS.
 </div>
 </div>
 
