@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hou-Wan Long"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hi, I am an undergraduate student from The Chinese University of Hong Kong (CUHK), and I expected to graduate in May, 2026."
+  bio              : "Hi, I'm Hou-Wan Long from Macau, a third-year student at CUHK with a focus on Computational Social Science, AI for Finance, and Decentralized Mechanism, seeking a PhD position for Fall 2026"
   location         : "Hong Kong"
-  employer         :
+  employer         : "The Chinese University of Hong Kong (CUHK)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Q0dhv_kAAAAJ&hl=en"
   email            : "houwanlong@link.cuhk.edu.hk"
