@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/coin_meme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging Culture and Finance: A Multimodal Analysis of
+-[Bridging Culture and Finance: A Multimodal Analysis of
 Memecoins in the Web3 Ecosystem]
 (https://arxiv.org/pdf/2412.04913)
 
