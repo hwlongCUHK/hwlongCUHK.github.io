@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, thanks for stopping by my page. I am from [Macau](https://en.wikipedia.org/wiki/Macau) and my name is Hou-Wan Long (龍浩雲). I am currently a third year student at The Chinese University of Hong Kong (CUHK), majoring in Risk Management Science (STAT+CS+FIN, has little thing to do with Management!!). My research interests include Computational Social Science, AI for Finance and Decentralized Mechanism. I am looking for PhD position for fall, 2026.
+Hi, thanks for stopping by my page. I am from [Macau](https://en.wikipedia.org/wiki/Macau) and my name is Hou-Wan Long (龍浩雲). I am currently a third year student at The Chinese University of Hong Kong (CUHK), majoring in Risk Management Science (STAT+CS+FIN, has little thing to do with Management!!). My research interests include Computational Social Science, AI for Finance and Decentralized Mechanism. I am looking for PhD position for Fall, 2026.
 
 # 📖 Educations
 - *2022.09 - 2026.05 (expected)*, B.Sc. in Risk Management Science, The Chinese University of Hong Kong, Hong Kong. 
