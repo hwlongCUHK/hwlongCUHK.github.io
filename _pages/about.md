@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Q0dhv_kAAAAJ&hl=en'>.
+Hi, thanks for stopping by my page. I am from Macau and my name is Hou-Wan Long (龍浩雲). I am currently a third year student at The Chinese University of Hong Kong (CUHK), majoring in Risk Management Science (STAT+CS+FIN, has nothing to do with Management!!). My research interests include Computational Social Science, AI for Finance and Decentralized Mechanism. I am looking for PhD position for fall, 2026.
 
 # 📖 Educations
 - *2022.09 - 2026.05 (expected)*, B.Sc. in Risk Management Science, The Chinese University of Hong Kong, Hong Kong. 
@@ -92,7 +92,7 @@ Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
 </div>
 
 # 🎖 Honors and Awards
-- *2024.11* "Students are future" Scholarship, Kyoto University.
+- *2024.11* "Students are future" Scholarship by Kyoto University.
 - *2024.07* Dean’s List by Department of Statistics, The Chinese University of Hong Kong.
 - *2023.11* Student Travel Award by Institute of Electrical and Electronics Engineers (IEEE). 
 
