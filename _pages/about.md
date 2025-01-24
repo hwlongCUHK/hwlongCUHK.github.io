@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/coin_meme.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Internation World Wide Web Conference 2025</div><img src='images/coin_meme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bridging Culture and Finance: A Multimodal Analysis of
@@ -39,7 +39,7 @@ Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS</div><img src='images/SaaS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transaction on Computational Social Systems</div><img src='images/SaaS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Multidimensional Contract Design for Smart Contract-as-a-Service](https://ieeexplore.ieee.org/abstract/document/10839568)
@@ -47,7 +47,19 @@ Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, Wei Cai
 
 **Project**
-- This article proposes a smart contract-as-a-service (SCaaS) paradigm to enhance efficiency, security, and developer engagement in Web3 by leveraging blockchain-based reputation filters, incentive mechanisms, and differentiated strategies for developers.
+- This paper proposes a smart contract-as-a-service (SCaaS) paradigm to enhance efficiency, security, and developer engagement in Web3 by leveraging blockchain-based reputation filters, incentive mechanisms, and differentiated strategies for developers.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE International Conference on Blockchain</div><img src='images/404.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Token Fungibility Duality: Technical and Graphical Analysis on 404 Standards](https://ieeexplore.ieee.org/abstract/document/10664313)
+
+**Hou-Wan Long**, Yain-Whar Si
+
+**Project**
+- This paper analyzes the ERC-404 and DN-404 blockchain standards, which combine fungible and non-fungible token features, highlighting ERC-404's challenges like high costs and congestion, DN-404's improvements in efficiency, and revealing power-law distributions in token activities.
 </div>
 </div>
 
