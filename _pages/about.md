@@ -29,14 +29,25 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/coin_meme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--[Bridging Culture and Finance: A Multimodal Analysis of
-Memecoins in the Web3 Ecosystem]
-(https://arxiv.org/pdf/2412.04913)
+[Bridging Culture and Finance: A Multimodal Analysis of
+Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 
 **Hou-Wan Long**, Nga-Man Wong, Wei Cai
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**
 - This paper introduces the Coin-Meme dataset and a multimodal framework to analyze memecoins, exploring their cultural themes, community interactions, and financial behaviors within the Web3 ecosystem.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSS</div><img src='images/SaaS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Multidimensional Contract Design for Smart Contract-as-a-Service](https://ieeexplore.ieee.org/abstract/document/10839568)
+
+Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, Wei Cai
+
+**Project**
+- This article proposes a smart contract-as-a-service (SCaaS) paradigm to enhance efficiency, security, and developer engagement in Web3 by leveraging blockchain-based reputation filters, incentive mechanisms, and differentiated strategies for developers.
 </div>
 </div>
 
