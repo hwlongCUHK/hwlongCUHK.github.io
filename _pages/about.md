@@ -104,9 +104,11 @@ Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
 # 🎖 Honors and Awards
 - *2024.11* "Students are future" Scholarship by Kyoto University.
 - *2024.07* Dean’s List by Department of Statistics, The Chinese University of Hong Kong.
-- *2023.11* Student Travel Award by Institute of Electrical and Electronics Engineers (IEEE). 
+- *2023.12* Research Studentship by Department of Statistics, The Chinese University of Hong Kong.
+- *2023.11* Student Travel Award by Institute of Electrical and Electronics Engineers (IEEE).
+- *2023.05* Reaching Out Award by New Asis College, The Chinese University of Hong Kong.
 
 
-# 💻 Internships
+# 💻 Industrial Internships
 - *2025.05 - 2025.09 (upcoming)*, [Singapore Institute of Manufacturing Technology-A*STAR]([https://www.group.citic/en/Diversified_Portfolio/Finance/Bank/](https://www.a-star.edu.sg/simtech)), Singapore.
 - *2024.07 - 2024.09*, [CITIC aiBank Corporation Limited](https://www.group.citic/en/Diversified_Portfolio/Finance/Bank/), Beijing, China.
