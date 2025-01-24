@@ -38,7 +38,7 @@ Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 
 **Hou-Wan Long**, Nga-Man Wong, Wei Cai
 
-**Project**
+**Introduction**
 - This paper introduces the Coin-Meme dataset and a multimodal framework to analyze memecoins, exploring their cultural themes, community interactions, and financial behaviors within the Web3 ecosystem.
 </div>
 </div>
@@ -50,7 +50,7 @@ Memecoins in the Web3 Ecosystem](https://arxiv.org/pdf/2412.04913)
 
 Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, Wei Cai
 
-**Project**
+**Introduction**
 - This paper proposes a smart contract-as-a-service (SCaaS) paradigm to enhance efficiency, security, and developer engagement in Web3 by leveraging blockchain-based reputation filters, incentive mechanisms, and differentiated strategies for developers.
 </div>
 </div>
@@ -62,7 +62,7 @@ Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, 
 
 **Hou-Wan Long**, Yain-Whar Si
 
-**Project**
+**Introduction**
 - This paper analyzes the ERC-404 and DN-404 blockchain standards, which combine fungible and non-fungible token features, highlighting ERC-404's challenges like high costs and congestion, DN-404's improvements in efficiency, and revealing power-law distributions in token activities.
 </div>
 </div>
@@ -74,7 +74,7 @@ Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, 
 
 Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
 
-**Project**
+**Introduction**
 - The abstract introduces a Dynamic Transaction Storage (DTS) strategy using Verkle trees and optimization algorithms to stabilize block incentives in consortium blockchains, reducing volatility and improving security by prioritizing time-based transaction incorporation and minimizing bandwidth consumption.
 </div>
 </div>
@@ -86,14 +86,15 @@ Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
 
 **Hou-Wan Long**, Xiongfei Zhao, Yain-Whar Si
 
-**Project**
+**Introduction**
 - This paper proposes a Dynamic Mining Interval (DMI) mechanism combined with Dynamic Transaction Storage (DTS) to enhance Blockchain transaction throughput and address challenges like fluctuating transaction activities, deviant mining threats, and reduced system efficiency caused by Merkle tree leaf node utilization in DTS.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* "Students are future" Scholarship, Kyoto University.
+- *2024.07* Dean’s List by Department of Statistics, The Chinese University of Hong Kong.
+- *2023.11* Student Travel Award by Institute of Electrical and Electronics Engineers (IEEE). 
 
 
 # 💻 Internships
