@@ -85,7 +85,7 @@ Jinghan Sun, **Hou-Wan Long**, Hong Kong, Zhixuan Fang, Abdulmotaleb El Saddik, 
 Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
 
 **Introduction**
-- The abstract introduces a Dynamic Transaction Storage (DTS) strategy using Verkle trees and optimization algorithms to stabilize block incentives in consortium blockchains, reducing volatility and improving security by prioritizing time-based transaction incorporation and minimizing bandwidth consumption.
+- This paper introduces a Dynamic Transaction Storage (DTS) strategy using Verkle trees and optimization algorithms to stabilize block incentives in consortium blockchains, reducing volatility and improving security by prioritizing time-based transaction incorporation and minimizing bandwidth consumption.
 </div>
 </div>
 
