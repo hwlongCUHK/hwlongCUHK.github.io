@@ -110,5 +110,4 @@ Xiongfei Zhao, Gerui Zhang, **Hou-Wan Long**, Yain-Whar Si
 
 
 # 💻 Industrial Internships
-- *2025.05 - 2025.09 (upcoming)*, [Singapore Institute of Manufacturing Technology-A*STAR](https://www.a-star.edu.sg/simtech), Singapore.
 - *2024.07 - 2024.09*, [CITIC aiBank Corporation Limited](https://www.group.citic/en/Diversified_Portfolio/Finance/Bank/), Beijing, China.
